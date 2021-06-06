@@ -1,0 +1,14 @@
+{
+  "name": "csgostats",
+  "version": "1.0.0",
+  "description": "Gamedig Modülü İle CS:GO Topluluk Sunucularından Veri Çekmemize yarayan bir bot.",
+  "main": "adonciacode.js",
+  "scripts": {
+    "test": "node adonciacode.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gamedig": "^3.0.5"
+  }
+}

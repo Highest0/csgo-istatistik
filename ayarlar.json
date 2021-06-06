@@ -1,0 +1,10 @@
+{
+    "prefix": ".",
+    "discord": "discord_sunucu_id",
+    "channel": "sesli_kanal_id",
+    "ipabs": "csgo_sunucu_id",
+    "port": "cs_sunucu_port",
+    "activity": "PLAYING",
+    "max": "max_oyuncu_sayısı",
+    "token": "bot_token"
+}
