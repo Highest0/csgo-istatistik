@@ -8,8 +8,4 @@ Kurulum:
 
 Kurulumu yapmadan önce cihazınızda Node.js'nin kurulu olduğundan emin olun.
 
-Herhangi bir sorunuz veya şikayetiniz Olursa:
-
-❃ Highéstʷ#4449
-Adoncia Code : https://discord.gg/ftaZbzERnE
 
